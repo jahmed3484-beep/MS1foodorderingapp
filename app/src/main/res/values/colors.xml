@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="food_cream">#FFF8F0</color>
+    <color name="food_orange">#E76F51</color>
+    <color name="food_orange_dark">#C8553D</color>
+    <color name="food_brown">#3D2C29</color>
+    <color name="food_gray">#756A67</color>
+    <color name="food_white">#FFFFFF</color>
+</resources>

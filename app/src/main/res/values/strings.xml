@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">MS1 Food Ordering App</string>
+
+    <!-- Login Screen -->
+    <string name="welcome_back">Welcome to our food ordering app :)</string>
+    <string name="food_icon">🍴</string>
+    <string name="login_title">Hello!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="create_account">Don’t have an account? Sign Up</string>
+
+    <!-- Registration Screen -->
+    <string name="register_title">Sign Up</string>
+    <string name="signup_subtitle">Create your account to get started</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="register">Sign Up</string>
+    <string name="new_password_optional">New Password (optional)</string>
+
+    <!-- Profile Screen -->
+    <string name="my_profile">Your Profile</string>
+    <string name="profile_subtitle">Manage your personal information</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="log_out">Log Out</string>
+
+
+</resources>
